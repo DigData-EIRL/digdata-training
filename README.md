@@ -1,17 +1,11 @@
 <div align="center">
-
-# DigData Training
-
-In this repository we explain the practices and standards that we use in [DigData-EIRL](https://github.com/DigData-EIRL).
-
-[![DigData-EIRL - digdatatraining](https://img.shields.io/static/v1?label=DigData-EIRL&message=digdatatraining&color=blue&logo=github)](https://github.com/DigData-EIRL/digdatatraining)
-[![stars - digdatatraining](https://img.shields.io/github/stars/DigData-EIRL/digdatatraining?style=social)](https://github.com/DigData-EIRL/digdatatraining/stargazers)
-[![forks - digdatatraining](https://img.shields.io/github/forks/DigData-EIRL/digdatatraining?style=social)](https://github.com/DigData-EIRL/digdatatraining/fork)
-
-[![GitHub release](https://img.shields.io/github/release/DigData-EIRL/digdatatraining?include_prereleases=&sort=semver)](https://github.com/DigData-EIRL/digdatatraining/releases) [![issues - digdatatraining](https://img.shields.io/github/issues/DigData-EIRL/digdatatraining)](https://github.com/DigData-EIRL/digdatatraining/issues)
-
-[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://digdata-eirl.github.io/digdatatraining)
-
+	<h1	h1 id="digdata-training">DigData Training</h1>
+	<p>In this repository we explain the practices and standards that we use in <a href="https://github.com/DigData-EIRL">DigData-EIRL</a>.</p>
+	<p><a href="https://github.com/DigData-EIRL/digdatatraining"><img src="https://img.shields.io/static/v1?label=DigData-EIRL&amp;message=digdatatraining&amp;color=blue&amp;logo=github" alt="DigData-EIRL - digdatatraining"></a>
+	<a href="https://github.com/DigData-EIRL/digdatatraining/stargazers"><img src="https://img.shields.io/github/stars/DigData-EIRL/digdatatraining?style=social" alt="stars - digdatatraining"></a>
+	<a href="https://github.com/DigData-EIRL/digdatatraining/fork"><img src="https://img.shields.io/github/forks/DigData-EIRL/digdatatraining?style=social" alt="forks - digdatatraining"></a></p>
+	<p><a href="https://github.com/DigData-EIRL/digdatatraining/releases"><img src="https://img.shields.io/github/release/DigData-EIRL/digdatatraining?include_prereleases=&amp;sort=semver" alt="GitHub release"></a> <a href="https://github.com/DigData-EIRL/digdatatraining/issues"><img src="https://img.shields.io/github/issues/DigData-EIRL/digdatatraining" alt="issues - digdatatraining"></a></p>
+	<p><a href="https://digdata-eirl.github.io/digdatatraining"><img src="https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge" alt="View site - GH Pages"></a></p>
 </div>
 
 # Table of contents
